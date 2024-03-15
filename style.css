@@ -20,7 +20,7 @@ align-items: center;
 
 padding: 24px theta
 
-cabecalho-imagem{
+cabecalho-imagem {
 
 width: 8%;
 
@@ -63,3 +63,5 @@ color: #16CFF8;
 a:active{
 
 color: rgb(105, 144, 216);
+    
+}
