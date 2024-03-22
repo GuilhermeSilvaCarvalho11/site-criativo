@@ -11,6 +11,10 @@
     padding: 24px 0;
 }
 
+.cabecalho-titulo{
+    color: #ff00b3;
+}
+
 .cabecalho-imagem{
     width: 8%;
     border-radius: 22px;
