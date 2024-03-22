@@ -4,8 +4,8 @@
 
 
 .cabecalho{
-    background-color: rgb(43, 131, 247);
-    color: rgb(45, 142, 226);
+    background-color: rgb(247, 43, 169);
+    color: rgb(226, 45, 196);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -28,11 +28,11 @@
 }
 
 a:hover {
-    color: #16CFF8;
+    color: #ff00b3;
 }
 
 a:active{
-    color: rgb(105, 144, 216);
+    color: rgb(247, 0, 193);
 
 }
 
