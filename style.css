@@ -76,6 +76,10 @@ p{
     }
 
 .fotter{
-    color: #f7c9e4;
+    background-color: rgb(253, 182, 253);
+    color: rgb(236, 173, 236));
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
 }
 
