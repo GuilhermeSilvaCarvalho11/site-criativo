@@ -72,8 +72,8 @@ p{
 }
 
 .estudante{
-    background-color: #ffd3ed;   /* cor de fundo*/
-    color: #ffffff;/*cor*/
+    background-color: #ffffff;   /* cor de fundo*/
+    color: #fd88cc;/*cor*/
 }
 .estudante-titulo{
     padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
