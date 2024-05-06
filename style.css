@@ -72,8 +72,8 @@ p{
 }
 
 .estudante{
-    background-color: #16a5f8;   /* cor de fundo*/
-    color: #000000;/*cor*/
+    background-color: #fa80e6;   /* cor de fundo*/
+    color: #f7a0ff;/*cor*/
 }
 .estudante-titulo{
     padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
@@ -118,7 +118,7 @@ p{
 
 /*SEÇÃO RODAPÉ*/
 .rodape{
-    background-color:  #424E61; /*define um gradiente linear como a imagem de fundo)*/ 
+    background-color:  #ffffff; /*define um gradiente linear como a imagem de fundo)*/ 
 }
 
 .copyright{
